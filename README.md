@@ -1,2 +1,1 @@
-# git-intro
-# git-intro
+# Git-intro
